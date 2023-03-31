@@ -1,0 +1,84 @@
+public student()
+{
+this.rollNumber=0;
+this.courseName="";
+this.adMissionNumber=0;
+this.caste="";
+this.firstName="";
+this.lastName="";
+this.sex= ;
+this.country="";
+this.address="";
+}
+public void setRollNumber(int rollNumber)
+{
+this.rollNumber=rollNumber;
+}
+public int getRollNumber()
+{
+return this.rollNumber;
+}
+public void setCourseName(java.lang.String courseName)
+{
+this.courseName=courseName;
+}
+public java.lang.String getCourseName()
+{
+return this.courseName;
+}
+public void setAdMissionNumber(int adMissionNumber)
+{
+this.adMissionNumber=adMissionNumber;
+}
+public int getAdMissionNumber()
+{
+return this.adMissionNumber;
+}
+public void setCaste(java.lang.String caste)
+{
+this.caste=caste;
+}
+public java.lang.String getCaste()
+{
+return this.caste;
+}
+public void setFirstName(java.lang.String firstName)
+{
+this.firstName=firstName;
+}
+public java.lang.String getFirstName()
+{
+return this.firstName;
+}
+public void setLastName(java.lang.String lastName)
+{
+this.lastName=lastName;
+}
+public java.lang.String getLastName()
+{
+return this.lastName;
+}
+public void setSex(char sex)
+{
+this.sex=sex;
+}
+public char getSex()
+{
+return this.sex;
+}
+public void setCountry(java.lang.String country)
+{
+this.country=country;
+}
+public java.lang.String getCountry()
+{
+return this.country;
+}
+public void setAddress(java.lang.String address)
+{
+this.address=address;
+}
+public java.lang.String getAddress()
+{
+return this.address;
+}
